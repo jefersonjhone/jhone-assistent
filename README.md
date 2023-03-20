@@ -16,7 +16,7 @@
 
 ### Funções já implementadas
 * #### Consultas ao Google 
-##### ´jhone -a gg x´ x é o termo a ser consultado, em caso de um termo com mais de uma palavra deve-se usar aspas ´jhone -a gg "termo a ser pesquisado"´ 
+#####  ' jhone -a gg x '  x é o termo a ser consultado, em caso de um termo com mais de uma palavra deve-se usar aspas ´jhone -a gg "termo a ser pesquisado"´ 
 * #### Abrir redes sociais com um comando 
 * #####  ´jhone -a tt´ -- Para abrir o Twitter
 * ##### ´jhone -a yt´  -- Para abrir o Youtube
