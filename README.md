@@ -8,11 +8,11 @@
 ### Passo a Passo
 * #### . Clonar esse repositório em uma pasta de seu computador ´git clone https://github.com/jefersonjhone/jhone-assistent.git´
 * #### . Criar um *alias*, isto é, um apelido para nosso arquivo. Para saber mais sobre *alias* execute o comando ´help alias´ no seu terminal. 
-#### Para criar um apelido para nosso assistente vamos abrir a pasta do usuário com o comando ´cd ~´. 
-#### Abra o arquivo __.bash_aliases__ com o comando ´nano .bash_alises´ ou com algum outro editor de sua preferência.
-#### Em seguida adicione o apelido para o arquivo, aqui vc pode dar qulquer nome ao seu assistente, : qualquer_nome ='python3 caminho_da_pasta salva'
-#### Exemplo : ´jhone='python3 ~/Documents/main.py'´
-#### Salve o arquivo com *´ctrl+x'*, pressione *´s´* e tecle *´enter´*
+    ##### Para criar um apelido para nosso assistente vamos abrir a pasta do usuário com o comando ´cd ~´. 
+    ##### Abra o arquivo __.bash_aliases__ com o comando ´nano .bash_alises´ ou com algum outro editor de sua preferência.
+    ##### Em seguida adicione o apelido para o arquivo, aqui vc pode dar qulquer nome ao seu assistente, : qualquer_nome ='python3 caminho_da_pasta salva'
+    ##### Exemplo : ´jhone='python3 ~/Documents/main.py'´
+    ##### Salve o arquivo com *´ctrl+x'*, pressione *´s´* e tecle *´enter´*
 
 ### Funções já implementadas
 * #### Consultas ao Google 
